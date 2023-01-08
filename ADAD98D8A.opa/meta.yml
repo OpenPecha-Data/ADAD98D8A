@@ -1,0 +1,19 @@
+id: ADAD98D8A
+title: Prayer to the Indian Mahāpaṇḍita Padmasambhava
+type: translation
+pechas:
+- IE322A772
+- I3BF94E18
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:01:51.777538
+  last_modified_at: 2023-01-04 13:01:51.777562
+  collections:
+  - Menlungpa Mikyö Dorje
+  - Works of Tibetan Masters
+alignment_to_base:
+  IE322A772/32A4: '0564'
+  I3BF94E18/FFB7: '0564'

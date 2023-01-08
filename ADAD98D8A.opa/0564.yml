@@ -1,0 +1,27 @@
+segment_sources:
+  IE322A772:
+    type: origin_type
+    relation: translation
+    base: 32A4
+    lang: en
+  I3BF94E18:
+    type: origin_type
+    relation: translation
+    base: FFB7
+    lang: bo
+segment_pairs:
+  7ac1e16e68014a7eb5b5211d7e01f473:
+    IE322A772: 86c6f65127784552900eaa340dbd1036
+    I3BF94E18: f5824de933d24219bb60ac030ff61b8c
+  9cadbe420ec54f9c9295da6a0639627b:
+    IE322A772: 0c71e5103eff4b588064d2d360cbb7e8
+    I3BF94E18: 49c79b6134d844699014b61f85886e23
+  1bc23b4c7ed54708820cd67fcc151409:
+    IE322A772: 10dd4a30fc5b4dc98e4030b7a7351b46
+    I3BF94E18: 13f3223f30414d5f96edae5bfe14f180
+  06b457252f3b4d11b3413433ccc08879:
+    IE322A772: 009a3a0bd6a14cb49b87ab6cc0f7f912
+    I3BF94E18: c066658a3eaf466da8c6cdb6e66196a4
+  e975eace60594558a1f9c63fa145c3c2:
+    IE322A772: f5f640f1629e475d93adc5e5674db57e
+    I3BF94E18: d3bbd9c5b59d4a72aab1b618a72759a7
